@@ -1,2 +1,3 @@
 # tak
-Implementations of Takeuchi function in several programming languages
+
+Naive implementations of Takeuchi function in several programming languages
